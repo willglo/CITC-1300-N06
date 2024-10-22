@@ -50,6 +50,6 @@ h3{
   
   /* Change color on hover */
   .topnav a:hover {
-    background-color: #ddd;
+    background-color: #fff;
     color: black;
   }
