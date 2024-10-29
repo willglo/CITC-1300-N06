@@ -51,8 +51,7 @@ h3{
   }
 
   #topnavi a:hover{
-    background-color: #fff;
-    color: black;
+    color: rgb(255, 9, 177);
   }
 
   #topnavi a{
