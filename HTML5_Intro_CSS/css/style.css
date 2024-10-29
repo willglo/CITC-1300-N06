@@ -2,6 +2,7 @@
 body{
     background-color:#a5e9aeba   
 }
+
 img{
     display:block;
     margin:20px auto;
@@ -54,4 +55,9 @@ h3{
   #topnavi a:hover{
     background-color: #fff;
     color: black;
+  }
+
+  #topnavi a{
+    color:#f2f2f2;
+    font: weight 800px;
   }
