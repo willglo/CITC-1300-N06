@@ -33,13 +33,13 @@ h3{
 }
 
 /* Style the top navigation bar */
-.topnav {
+.topnavi {
     overflow: hidden;
     background-color: #333;
   }
   
   /* Style the topnav links */
-  .topnav a {
+  .topnavi a {
     float: left;
     display: block;
     color: #f2f2f2;
@@ -49,7 +49,7 @@ h3{
   }
   
   /* Change color on hover */
-  .topnav a:hover {
+  .topnavi a:hover {
     background-color: #fff;
     color: black;
   }
