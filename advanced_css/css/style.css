@@ -40,7 +40,7 @@ h3{
   
 nav {
     text-align:center;
-    margin: 20px 0;
+    margin: 0;
     background-color:#a5e9aeba;   
     width: 100%
 }
@@ -48,6 +48,7 @@ nav {
   nav ul{
     list-style-type: none;
     padding: 0;
+    margin: 0;
   }
 
   nav li{
