@@ -38,7 +38,11 @@ h3{
     overflow: hidden;
   }
   
-
+nav {
+    text-align:center;
+    margin: 20px 0;
+    background-color:#73c07eba   
+}
 
   nav ul{
     list-style-type: none;
@@ -47,6 +51,10 @@ h3{
 
   nav li{
     display: inline-block
+  }
+
+  nav li a {
+
   }
   /* Style the topnav links 
 
