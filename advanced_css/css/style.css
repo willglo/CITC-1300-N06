@@ -61,7 +61,11 @@ nav {
     text-decoration: none;
     padding:16px;
     margin: 0 20px;
+  }
 
+  nav a:hover{
+    background-color:#fff;
+    color:#000;
   }
   /* Style the topnav links 
 
