@@ -42,12 +42,13 @@ h3{
 
   nav ul{
     list-style-type: none;
+    padding: 0;
   }
 
   nav li{
-    display: inline
+    display: inline-block
   }
-  /* Style the topnav links */
+  /* Style the topnav links 
 
   #topnavi{
     float: left;
@@ -69,3 +70,5 @@ h3{
     font-size:1.5em;
     padding:2em;
   }
+
+  */
