@@ -4,6 +4,18 @@ main{
     display:flex;
 }
 
+#column1{
+    width:50%;
+    border: 2px solid #000;
+
+}
+
+#column2{
+    width:50%;
+    border: 2px solid #000;
+
+}
+
 body{
     background-color:#a5e9aeba   
 }
