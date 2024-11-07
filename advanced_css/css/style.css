@@ -123,9 +123,9 @@ nav {
 .site-header{
     font-weight:800;
     font-style: oblique;
-    text-shadow: 2px 2px #258026;
+    text-shadow: 2px 2px rgba(124, 182, 86, 0.516);
     color:#754400;
-    font-size: 1.1em;
+    font-size: 2em;
 }
 
 /* Create two equal columns that floats next to each other */
