@@ -41,7 +41,7 @@ h3{
 nav {
     text-align:center;
     margin: 20px 0;
-    background-color:#73c07eba   
+    background-color:#a5e9aeba   
 }
 
   nav ul{
@@ -59,7 +59,7 @@ nav {
     font-size: 20px;
     font-weight:bold;
     text-decoration: none;
-    padding:16px;
+    padding:2em;
     margin: 0 20px;
   }
 
