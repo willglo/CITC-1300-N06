@@ -54,7 +54,11 @@ nav {
   }
 
   nav li a {
-    color: #fff
+    display: block;
+    color: #fff;
+    font-size: 20px;
+    font-weight:bold;
+    
   }
   /* Style the topnav links 
 
