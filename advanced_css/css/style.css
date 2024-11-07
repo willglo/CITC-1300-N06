@@ -1,8 +1,6 @@
 
 
-main{
-    display:flex;
-}
+
 
 .container{
     width:100%
@@ -16,7 +14,6 @@ main{
 #column2{
     width:50%;
     border: 2px solid #000;
-
 }
 
 body{
@@ -111,4 +108,8 @@ nav {
   .gh-images{
     width: 40%;
   }
+
+#two-col{
+    display:flex;
+}
 
