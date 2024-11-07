@@ -113,6 +113,16 @@ nav {
     display:flex;
 }
 
+#column1{
+    width:50%;
+    border: 2px solid #000;
+
+}
+#column2{
+    width:50%;
+    border: 2px solid #000;
+}
+
 .site-header{
     font-weight:800;
     font-style: oblique;
