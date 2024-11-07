@@ -40,7 +40,7 @@ h3{
   
 nav {
     text-align:center;
-    margin: 0;
+    margin: 20px 0;
     background-color:#a5e9aeba;   
     width: 100%
 }
@@ -64,10 +64,10 @@ nav {
     float: left;
     display: block;
     text-align: center;
-    padding: 0px;
+    padding: 14px 16px;
     text-decoration: none;
     width: 100%;
-    padding-bottom: 2px;
+    padding-bottom: 20px;
   }
 
   #topnavi a:hover{
@@ -78,6 +78,7 @@ nav {
     color:#14650a;
     font-weight: 700;
     font-size:1.5em;
+    padding:5px;
   }
 
 
@@ -86,7 +87,7 @@ nav {
   }
 
   #photo-shadow{
-    border: 10px 10px 10px #969696;
+    border: 10px #969696;
   }
 
   .gh-images{
