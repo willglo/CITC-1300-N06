@@ -113,12 +113,6 @@ nav {
     display:flex;
 }
 
-#column1{
-    width:50%;
-}
-#column2{
-    width:50%;
-}
 
 .site-header{
     font-weight:800;
@@ -130,15 +124,17 @@ nav {
 
 /* Create two equal columns that floats next to each other */
 .column {
-    float: left;
-    width: 50%;
-    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
   }
   
   /* Clear floats after the columns */
-  .row:after {
-    content: "";
+  .row {
     display: flex;
-    clear: both;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
   }
 
