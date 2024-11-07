@@ -22,8 +22,8 @@ ul,ol{
     display:table;
     margin: 0 auto;
 }
-div{
-    width:1500px
+#container{
+    width:100%;
 }
 .center {
     text-align: center;
