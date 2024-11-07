@@ -4,6 +4,10 @@
     display:flex;
 }
 
+.container{
+    width:100%
+}
+
 #column1{
     width:50%;
     border: 2px solid #000;
