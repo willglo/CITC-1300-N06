@@ -86,7 +86,7 @@ nav {
   }
 
   #photo-shadow{
-    text-shadow: 10px 10px 10px #969696;
+    border: 10px 10px 10px #969696;
   }
 
   .gh-images{
