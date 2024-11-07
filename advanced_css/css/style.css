@@ -38,6 +38,15 @@ h3{
     overflow: hidden;
   }
   
+
+
+  nav ul{
+    list-style-type: none;
+  }
+
+  nav li{
+    display: inline
+  }
   /* Style the topnav links */
 
   #topnavi{
