@@ -95,7 +95,7 @@ h1,h2,h3,p{
   }
 
   nav li a{
-    display:block;
+    display:inline-block;
     height:30px;
     line-height:30px;
     font-size:24px;
@@ -170,8 +170,7 @@ nav li a {
 }
 
 #topnavi{
-  float: left;
-  display: block;
+  display: inline-block;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
