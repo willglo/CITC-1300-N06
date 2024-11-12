@@ -82,7 +82,7 @@ p{
   }
 
   #header-line{
-    font-weight:800px;
+    font-weight:800;
     font-size:1.2em;
   }
   
@@ -178,8 +178,7 @@ nav ul{
 nav li{
   display: inline-block;
   margin-bottom:0px;
-  padding: top 0px;
-  padding: bottom 0px;
+  padding: 10px;
 }
 
 nav li a {
