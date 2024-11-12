@@ -78,9 +78,64 @@ h1,h2,h3,p{
 
 @media (min-width:768px) and (max-width:900px){
 
+
+  nav{
+    padding:5px;
+    margin-top: 15px;
+    text-align:center;
+  }
+
+  nav ul{
+    list-style: none;
+    padding:0;
+  }
+
+  nav li{
+    display: block;
+  }
+
+  nav li a{
+    display:block;
+    height:30px;
+    line-height:30px;
+    font-size:24px;
+    font-weight:700;
+    color: #522208;
+    text-decoration: none;
+    padding:0;
+  }
+  
+  .center {
+    padding: 20px;
+  }
+
+  h2{
+    padding:10px;
+    font-weight:600;
+  }
+
+  #header-line{
+    font-weight:800px;
+    font-size:1.2em;
+  }
+  
+
+  footer{
+    text-align: center;
+    padding:30px;
+  }
+
+/*
+
+
   nav li{
     display: inline-block;
+
+    
   }
+
+
+  */
 }
 
 
