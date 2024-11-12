@@ -99,12 +99,13 @@ h1,h2,h3,p{
   }
 
   nav li{
-    display: block;
+    display: inline-block;
   }
 
   nav li a{
     display:inline-block;
-    height:30px;
+    height:150px;
+    width:155px;
     line-height:30px;
     font-size:24px;
     font-weight:700;
@@ -157,7 +158,7 @@ nav ul{
 }
 
 nav li{
-  display: block
+  display: inline-block
 }
 
 nav li a {
