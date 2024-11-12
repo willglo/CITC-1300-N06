@@ -92,6 +92,10 @@ p{
     padding:30px;
 
   }
+
+  #desktop-only{
+    display:none;
+  }
   
 }
 
@@ -142,6 +146,10 @@ p{
     text-align: center;
     padding:30px;
     margin:12px;
+  }
+
+  #desktop-only{
+    display:none;
   }
 
 }
