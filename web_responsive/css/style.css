@@ -74,3 +74,59 @@ h1,h2,h3{
   }
   
 }
+
+
+@media (min-width:900px) and (max-width:1800px) {
+
+
+/* Desktop Style the top navigation bar */
+.topnavi {
+  overflow: hidden;
+}
+
+nav {
+  text-align:center;
+  margin: 20px 0;
+  background-color:#a5e9aeba;   
+  width: 100%
+}
+
+nav ul{
+  list-style-type: none;
+  text-align:center;
+}
+
+nav li{
+  display: inline-block
+}
+
+nav li a {
+  display: block;
+}
+
+#topnavi{
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  width: 100%;
+  padding-bottom: 2px;
+}
+
+#topnavi a:hover{
+  color: rgb(255, 9, 177);
+}
+
+#topnavi a{
+  color:#14650a;
+  font-weight: 700;
+  font-size:1.5em;
+  padding:5px;
+}
+
+
+.heading-style{
+  text-decoration:underline;
+}
+}
