@@ -20,6 +20,10 @@ img{
   margin: 20px
 }
 
+h1,h2,h3{
+  text-align:center;
+}
+
 /* Small Screens */
 
 @media (min-width:320px) and (max-width:1200px) {
