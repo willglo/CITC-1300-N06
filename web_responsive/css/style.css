@@ -32,6 +32,15 @@ img{
     list-style: none;
     padding:0;
   }
+
+  nav li{
+    display: block;
+  }
+
+  nav li a{
+    text-decoration: none;
+    padding:0;
+  }
   
   
 }
