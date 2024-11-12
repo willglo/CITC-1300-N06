@@ -179,4 +179,8 @@ nav li a {
 .gh-images{
   width: 40%;
 }
+
+img{
+  max-width:600px;
+}
 }
