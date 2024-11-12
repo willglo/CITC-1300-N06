@@ -81,6 +81,7 @@ h1,h2,h3,p{
   footer{
     text-align: center;
     padding:30px;
+    
   }
   
 }
@@ -131,6 +132,7 @@ h1,h2,h3,p{
   footer{
     text-align: center;
     padding:30px;
+    margin:12px;
   }
 
 }
@@ -229,6 +231,11 @@ img{
   width: 100%;
 }
 
+footer{
+  margin:20px;
+}
+
+
 }
 
 
@@ -286,5 +293,9 @@ img{
   flex-direction: row;
   flex-wrap: wrap;
   width: 100%;
+}
+
+footer{
+  margin:20px;
 }
 }
