@@ -52,7 +52,11 @@ img{
   
 
   .center {
-    padding: 20px
+    padding: 20px;
+  }
+
+  h2{
+    padding:10px;
   }
   
   
