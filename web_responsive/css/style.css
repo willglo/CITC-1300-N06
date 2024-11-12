@@ -67,5 +67,10 @@ h1,h2,h3{
     padding:10px;
   }
   
+
+  footer{
+    text-align: center;
+    padding:30px;
+  }
   
 }
