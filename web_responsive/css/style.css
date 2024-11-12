@@ -257,14 +257,15 @@ img{
 #column1{
   width:50%;
   padding:20px;
-  margin:20px
-
+  margin:20px;
+  border: solid 4px black;
 }
 
 #column2{
   width:50%;
   padding:20px;
   margin:20px;
+  border: solid 4px black;
 
 }
 
