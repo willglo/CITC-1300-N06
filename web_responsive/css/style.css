@@ -191,4 +191,8 @@ nav li a {
 .heading-style{
   text-decoration:underline;
 }
+
+.gh-images{
+  width: 40%;
+}
 }
