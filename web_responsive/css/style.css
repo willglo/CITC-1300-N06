@@ -105,8 +105,7 @@ h1,h2,h3,p{
   nav li a{
     display:inline-block;
     margin: 5px;
-    line-height:30px;
-    font-size:24px;
+    font-size:1.4em;
     font-weight:700;
     color: #522208;
     text-decoration: none;
