@@ -160,7 +160,7 @@ nav ul{
 }
 
 nav li{
-  display: inline-block
+  display: block
 }
 
 nav li a {
