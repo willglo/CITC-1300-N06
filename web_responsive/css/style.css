@@ -189,6 +189,42 @@ img{
   max-width:600px;
 }
 
+
+/* COLUMN STYLES */
+
+.container{
+  width:100%
+}
+
+#column1{
+  width:50%;
+
+}
+
+#column2{
+  width:50%;
+
+}
+
+#two-col{
+  display:flex;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}
+
+/* Clear floats after the columns */
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
 }
 
 
