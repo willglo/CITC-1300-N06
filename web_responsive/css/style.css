@@ -133,17 +133,6 @@ h1,h2,h3,p{
     padding:30px;
   }
 
-/*
-
-
-  nav li{
-    display: inline-block;
-
-    
-  }
-
-
-  */
 }
 
 
@@ -176,30 +165,8 @@ nav li a {
   font-weight:700;
   color: #522208;
   text-decoration: none;
-  padding:0;
-}
-
-/* 
-#topnavi{
-  display: inline-block;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  width: 100%;
-  padding-bottom: 2px;
-}
-
-*/
-
-#topnavi a:hover{
-  color: rgb(255, 9, 177);
-}
-
-#topnavi a{
-  color:#14650a;
-  font-weight: 700;
-  font-size:1.5em;
   padding:5px;
+  font-size: 1.5em;
 }
 
 
