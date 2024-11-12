@@ -17,6 +17,7 @@ img{
 .center {
   text-align: center;
   list-style-position: inside;
+  margin: 20px
 }
 
 /* Small Screens */
@@ -26,6 +27,7 @@ img{
   nav{
     padding:5px;
     margin-top: 15px;
+    text-align:center;
   }
 
   nav ul{
