@@ -13,3 +13,12 @@ img{
 #container{
   background-color:#AFDFA1
 }
+
+@media min-width:320px {
+
+  nav{
+    padding:5px;
+    margin-top: 15px;
+  }
+  
+}
