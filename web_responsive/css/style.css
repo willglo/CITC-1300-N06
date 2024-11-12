@@ -64,7 +64,8 @@ h1,h2,h3,p{
   }
 
   #header-line{
-    padding:20px;
+    font-weight:800px;
+    font-size:1.2em;
   }
   
 
