@@ -17,7 +17,7 @@ img{
 .center {
   text-align: center;
   list-style-position: inside;
-  margin: 20px
+  padding: 20px
 }
 
 h1,h2,h3,p{
@@ -173,8 +173,13 @@ nav li{
 
 nav li a {
   display: block;
+  font-weight:700;
+  color: #522208;
+  text-decoration: none;
+  padding:0;
 }
 
+/* 
 #topnavi{
   display: inline-block;
   text-align: center;
@@ -183,6 +188,8 @@ nav li a {
   width: 100%;
   padding-bottom: 2px;
 }
+
+*/
 
 #topnavi a:hover{
   color: rgb(255, 9, 177);
