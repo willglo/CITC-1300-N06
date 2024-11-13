@@ -110,7 +110,7 @@ p{
 
   nav ul{
     list-style: none;
-    padding:0;
+    padding:0px;
   }
 
   nav li{
@@ -183,6 +183,7 @@ nav li{
 
 nav li a {
   display: block;
+  margin-top: 0px;
   font-weight:700;
   color: #522208;
   text-decoration: none;
