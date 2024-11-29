@@ -1,7 +1,7 @@
 /* Global Styles */
 
 body{
-  background-color:#2E5902;
+  background-color:#7fdae0;
 }
 
 img{
@@ -11,7 +11,7 @@ img{
 }
 
 #container{
-  background-color:#AFDFA1
+  background-color:#75e1dc
 }
 
 .center {
@@ -24,11 +24,16 @@ h1,h2,h3,h4,p{
   text-align:center;
 }
 
+h1{
+  color:#ce2cb9
+}
+
 .site-header{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
   font-weight:800;
   font-style: oblique;
   text-shadow: 2px 2px rgba(124, 182, 86, 0.516);
-  color:#754400;
+  color:#ed3aba;
   font-size: 2em;
 }
 
