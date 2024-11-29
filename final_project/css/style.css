@@ -1,0 +1,327 @@
+/* Global Styles */
+
+body{
+  background-color:#2E5902;
+}
+
+img{
+  display:block;
+  margin: 0 auto;
+  width:100%
+}
+
+#container{
+  background-color:#AFDFA1
+}
+
+.center {
+  text-align: center;
+  list-style-position: inside;
+  padding: 20px
+}
+
+h1,h2,h3,h4,p{
+  text-align:center;
+}
+
+.site-header{
+  font-weight:800;
+  font-style: oblique;
+  text-shadow: 2px 2px rgba(124, 182, 86, 0.516);
+  color:#754400;
+  font-size: 2em;
+}
+
+#closing-section{
+  margin:10px;
+}
+
+p{
+  margin:8px;
+}
+
+.kalnia-glaze .lou-title {
+  font-family: "Kalnia Glaze", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 500;
+}
+
+
+/* Small Screens */
+
+@media (min-width:320px) and (max-width:767px) {
+
+  nav{
+    padding:5px;
+    margin-top: 15px;
+    text-align:center;
+    background-color:#719250
+  }
+
+  nav ul{
+    list-style: none;
+    padding:0;
+  }
+
+  nav li{
+    display: block;
+  }
+
+  nav li a{
+    display:block;
+    height:30px;
+    line-height:30px;
+    font-size:24px;
+    font-weight:700;
+    color: #522208;
+    text-decoration: none;
+    padding:0;
+  }
+  
+  .center {
+    padding: 20px;
+  }
+
+  h2{
+    padding:10px;
+    font-weight:600;
+  }
+
+  #header-line{
+    font-weight:800;
+    font-size:1.2em;
+  }
+  
+
+  footer{
+    text-align: center;
+    padding:30px;
+
+  }
+
+  #desktop-only{
+    display:none;
+  }
+  
+}
+
+@media (min-width:768px) {
+
+
+  nav{
+    padding:5px;
+    margin-top: 15px;
+    text-align:center;
+  }
+
+  nav ul{
+    list-style: none;
+    padding:0px;
+  }
+
+  nav li{
+    display: inline-block;
+  }
+
+  nav li a{
+    display:inline-block;
+    margin: 5px;
+    font-size:1.4em;
+    font-weight:700;
+    color: #522208;
+    text-decoration: none;
+    padding:20px;
+  }
+  
+  .center {
+    padding: 20px;
+  }
+
+  h2{
+    padding:10px;
+    font-weight:600;
+  }
+
+  #header-line{
+    font-weight:800;
+    font-size:1.2em;
+  }
+  
+
+  footer{
+    text-align: center;
+    padding:30px;
+    margin:12px;
+  }
+
+  #desktop-only{
+    display:none;
+  }
+
+}
+
+
+
+
+@media (min-width:900px) {
+
+
+/* Desktop Style the top navigation bar */
+.topnavi {
+  overflow: hidden;
+}
+
+nav {
+  text-align:center;
+  width: 100%
+}
+
+nav ul{
+  list-style-type: none;
+  text-align:center;
+}
+
+nav li{
+  display: inline-block;
+  margin-bottom:0px;
+  padding: 10px;
+}
+
+nav li a {
+  display: block;
+  margin-top: 0px;
+  font-weight:700;
+  color: #522208;
+  text-decoration: none;
+  padding:0px;
+  font-size: 1.5em;
+  width:200px;
+  height:auto;
+}
+
+
+.heading-style{
+  text-decoration:underline;
+}
+
+.gh-images{
+  width: 40%;
+}
+
+img{
+  display:block;
+  margin:20px auto;
+  max-width:600px;
+}
+
+
+/* COLUMN STYLES */
+
+.container{
+  width:100%
+}
+
+#column1{
+  width:50%;
+  padding:20px;
+  margin:20px
+
+}
+
+#column2{
+  width:50%;
+  padding:20px;
+  margin:20px;
+
+}
+
+#two-col{
+  display:flex;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}
+
+/* Clear floats after the columns */
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+footer{
+  margin:20px;
+}
+
+
+}
+
+
+@media (min-width:900px) {
+
+
+  nav li a {
+    display: block;
+    font-weight:700;
+    color: #522208;
+    text-decoration: none;
+    padding:20px;
+    font-size: 1.8em;
+    width:auto;
+    height:auto;
+  }
+
+
+
+  /* COLUMN STYLES */
+
+.container{
+  width:100%
+}
+
+#column1{
+  width:50%;
+  padding:20px;
+  margin:20px;
+  border: solid 4px black;
+}
+
+#column2{
+  width:50%;
+  padding:20px;
+  margin:20px;
+  border: solid 4px black;
+
+}
+
+#two-col{
+  display:flex;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}
+
+/* Clear floats after the columns */
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+footer{
+  margin:20px;
+}
+}
