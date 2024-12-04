@@ -19,6 +19,7 @@ img{
 iframe[src*="//youtube.com/"], iframe[src*="//www.youtube.com/"] {
   display: block;
   margin: 0 auto;
+  border: 0;
 }
 
 .video-container {
