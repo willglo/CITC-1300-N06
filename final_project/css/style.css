@@ -53,7 +53,6 @@ h3{
 h1{
   color:#ce2cb9;
   font-family: "Kalnia Glaze", serif;
-  font-optical-sizing: auto;
   font-weight: 600;
 }
 
@@ -65,7 +64,6 @@ h2{
 
 p{
   font-family: "Fustat", sans-serif;
-  font-optical-sizing: auto;
   font-weight:600;
 }
 
@@ -88,7 +86,6 @@ p{
 
 .kalnia-glaze .lou-title {
   font-family: "Kalnia Glaze", serif;
-  font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
   font-variation-settings:
