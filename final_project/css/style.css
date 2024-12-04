@@ -99,6 +99,13 @@ p{
 
 @media (min-width:320px) and (max-width:767px) {
 
+
+
+  iframe {
+    aspect-ratio: 16 / 9;
+    width: 100% !important;
+}
+
   nav{
     padding:5px;
     margin-top: 15px;
