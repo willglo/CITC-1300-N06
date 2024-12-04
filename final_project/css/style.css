@@ -45,14 +45,15 @@ h1,h2,h3,h4,h5,p{
 }
 
 h3{
+  font-family: "Fustat", sans-serif;
   color: #ce2cb9
 }
 
 h1{
   color:#ce2cb9;
-  font-family: "Kalnia Glaze", serif;
+  font-family: "Playwrite FR Trad", cursive;
   font-optical-sizing: auto;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 h2{
